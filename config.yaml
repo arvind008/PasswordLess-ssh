@@ -1,0 +1,69 @@
+user:
+    hillview
+host:
+    worker1:
+        host_name: 10.81.1.221
+        password: hillview
+    worker2:
+        host_name: 10.81.1.232
+        password: hillview
+    worker3:
+        host_name: 10.81.1.164
+        password: hillview
+    worker4:
+        host_name: 10.81.1.182
+        password: hillview
+    worker5:
+        host_name: 10.81.1.244
+        password: hillview
+    worker6:
+        host_name: 10.81.1.231
+        password: hillview
+    worker7:
+        host_name: 10.81.1.215
+        password: hillview
+    worker8:
+        host_name: 10.81.1.201
+        password: hillview
+    worker9:
+        host_name: 10.81.1.250
+        password: hillview
+    worker10:
+        host_name: 10.81.1.206
+        password: hillview
+    worker11:
+        host_name: 10.81.1.175
+        password: hillview
+    worker12:
+        host_name: 10.81.1.242
+        password: hillview
+    worker13:
+        host_name: 10.81.1.171
+        password: hillview
+    worker14:
+        host_name: 10.81.1.161
+        password: hillview
+    worker15:
+        host_name: 10.81.1.180
+        password: hillview
+    worker16:
+        host_name: 10.81.1.205
+        password: hillview
+    worker17:
+        host_name: 10.81.1.235
+        password: hillview
+    worker18:
+        host_name: 10.81.1.243
+        password: hillview
+    worker19:
+        host_name: 10.81.1.199
+        password: hillview
+    worker20:
+        host_name: 10.81.1.169
+        password: hillview
+    worker21:
+        host_name: 10.11.0.107
+        password: hillview
+    worker22:
+        host_name: 10.11.0.109
+        password: hillview
